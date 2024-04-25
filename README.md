@@ -1,1 +1,1 @@
-# blog-symfony
+# recipe-symfony
